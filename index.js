@@ -62,7 +62,7 @@ inquirer
 
 ## Brief Information
 *Email: ${response.email}
-*GitHub: ${response.username}
+*GitHub: ${response.username}(#https://github.com/${response.username})
 
 ## Description
 ${response.description}
